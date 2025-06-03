@@ -134,7 +134,7 @@ Bu projeye katkı sağlamak isterseniz, aşağıdaki yöntemlerle iletişime ge�
 ### 👥 Geliştiriciler
 | İsim | Rol | GitHub |
 |------|-----|--------|
-| **Serhat Vahapoğlu** | Firebase Authentication, SQLite, Supabase profilleri | [@SerhatVahappogglu](https://github.com/SerhatVahappogglu) |
+| **Serhat Vahapoğlu** | Firebase Authentication, SQLite, Supabase profilleri | [@SerhatVahapoglu](https://github.com/SerhatVahapoglu) |
 | **Rüveyda Nur Güneş** | UI tasarımı, ana sayfa, sipariş sistemi, tema | [@rvydgns](https://github.com/rvydgns) |
 
 > ✉️ Geliştiricilere özel olarak ulaşmak isterseniz GitHub profilleri üzerinden iletişime geçebilirsiniz.
